@@ -1,0 +1,64 @@
+/* .home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} */
+h1{
+    background-color: green;
+    display:block;
+    width: 100%;
+}
+.mainNav{
+    background-color: rgb(92, 99, 92);
+    display: inline-block;
+    width: 100%;
+    align-content: center;
+}
+.navBar{
+    color:aliceblue;
+    text-decoration: none;
+    padding: 100px;
+    align-self: center;
+}
+input{
+    margin-top: 10px;
+}
+
+/* button{
+    background-color: grey;
+} */
+
+li{
+    list-style: none;
+}
+
+.card{
+    background-color: rgb(224, 238, 238);
+}
+.stockSelection{
+    background-color: darkseagreen;
+    padding-left: 15px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
+
+
+
+/* //homeProtal */
+
+.homePortal1, .homePortal2{
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 20px;
+    margin-bottom: 200px;
+    
+}
+.homePortalDiv{
+    min-height: 600px;
+    background-color: forestgreen;
+}
+.home{
+    width: 100%;
+}
